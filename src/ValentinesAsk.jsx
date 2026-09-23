@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 
 const TAUNTS = [
-  "Nice try. HEHE",
+  "Nice try.",
   "Nope, not there either.",
   "The 'No' button is camera-shy.",
   "It's playing hard to get.",
@@ -143,7 +143,7 @@ export default function ValentinesAsk() {
             I knew you'd say yes eventually — the "no" button never stood a chance.
           </p>
           <div style={styles.datetime}>
-            Please be ready on <strong>Feb. 14,2027 at 7:00 PM</strong> — I'll pick you up. 🚗🌹
+            Please be ready on <strong>Feb. 14, 7:00 PM</strong> — I'll pick you up. 🚗🌹
           </div>
           <div style={styles.sign}>Can't wait,<br />Your Valentine</div>
         </div>
